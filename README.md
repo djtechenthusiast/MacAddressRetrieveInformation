@@ -1,6 +1,6 @@
 # MacAddressRetrieveInformation
 
-fetchId.py is the python file with the complete program to output company name owning the mac address using the API
+fetchId.py is the python file with the complete program to output company name owning the mac address using the API (Used libraries requests & argparse)
 
 Invocation : python fetchId.py MAC_ADDRESS_OF_THE_COMPUTER
 
